@@ -22,3 +22,5 @@ plugins:
   # https://github.com/neoeinstein/protoc-gen-prost/blob/main/protoc-gen-prost-serde/README.md
   # - plugin: buf.build/community/neoeinstein-prost-serde:v0.2.3
   #   out: proto-rs
+
+# Update: 2025-10-18
